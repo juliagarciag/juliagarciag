@@ -78,16 +78,16 @@
 
 <p align="center">
 
-<a href="mailto:juh.garcia.ale@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&labelColor=ffffff&color=D4AF37">
+<a href="mailto:julia.garciag26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&color=D4AF37"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&labelColor=FFF0F6&color=D4AF37">
+<a href="https://linkedin.com/in/www.linkedin.com/in/júliagarciag">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&color=D4AF37"/>
 </a>
 
-<a href="https://wa.me/55SEUNUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&labelColor=ffffff&color=D4AF37">
+<a href="https://wa.me/5521965896255">
+<img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&color=D4AF37"/>
 </a>
 
 </p>
