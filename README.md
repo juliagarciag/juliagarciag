@@ -79,15 +79,15 @@
 <p align="center">
 
 <a href="mailto:julia.garciag26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&color=D4AF37"/>
+<img src="https://img.shields.io/badge/Gmail-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&color=D4AF37">
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/júliagarciag">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&color=D4AF37"/>
+<a href="https://www.linkedin.com/in/júliagarciag">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&color=D4AF37">
 </a>
 
 <a href="https://wa.me/5521965896255">
-<img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&color=D4AF37"/>
+<img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&color=D4AF37">
 </a>
 
 </p>
