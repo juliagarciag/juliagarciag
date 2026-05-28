@@ -76,21 +76,20 @@
 
 <h3 align="left">➤ Contact ♡ ˎˊ˗</h3> 
 
+
 <p align="center">
 
 <a href="mailto:julia.garciag26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&color=D4AF37">
+<img src="https://img.shields.io/badge/Gmail-FDF2F8?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=ffffff&color=fbcfe8">
 </a>
 
-<a href="https://www.linkedin.com/in/júliagarciag">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&color=D4AF37">
+<a href="https://www.linkedin.com/in/juliagarciag">
+<img src="https://img.shields.io/badge/LinkedIn-FFF7ED?style=for-the-badge&logo=linkedin&logoColor=f59e0b&labelColor=ffffff&color=fde68a">
 </a>
 
 <a href="https://wa.me/5521965896255">
-<img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&color=D4AF37">
+<img src="https://img.shields.io/badge/WhatsApp-FAF5FF?style=for-the-badge&logo=whatsapp&logoColor=a855f7&labelColor=ffffff&color=e9d5ff">
 </a>
-
-</p>
 
 ###
 
