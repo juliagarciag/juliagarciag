@@ -74,7 +74,9 @@
 
 ###
 
-<h3 align="left">➤ Contact ♡ ˎˊ˗</h3>
+<h3 align="left">➤ Contact ♡ ˎˊ˗</h3> 
+
+[![Email](https://img.shields.io/badge/Email-Contato-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juh.garcia.ale@gmail.com)
 
 ###
 
