@@ -76,7 +76,21 @@
 
 <h3 align="left">➤ Contact ♡ ˎˊ˗</h3> 
 
-[![Email](https://img.shields.io/badge/Email-Contato-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juh.garcia.ale@gmail.com)
+<p align="center">
+
+<a href="mailto:juh.garcia.ale@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFF0F6?style=for-the-badge&logo=gmail&logoColor=ff69b4&labelColor=ffffff&color=D4AF37">
+</a>
+
+<a href="https://linkedin.com/in/SEULINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ff69b4&labelColor=FFF0F6&color=D4AF37">
+</a>
+
+<a href="https://wa.me/55SEUNUMERO">
+  <img src="https://img.shields.io/badge/WhatsApp-FFF0F6?style=for-the-badge&logo=whatsapp&logoColor=ff69b4&labelColor=ffffff&color=D4AF37">
+</a>
+
+</p>
 
 ###
 
